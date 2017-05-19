@@ -1,0 +1,42 @@
+{
+  "name": "DiskonPlus",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native": "^0.39.2",
+    "react-native-admob": "^1.1.5",
+    "react-native-android-badge": "^0.4.1",
+    "react-native-carousel": "^0.10.0",
+    "react-native-carousel-control": "^1.0.5",
+    "react-native-collapsible": "^0.7.0",
+    "react-native-drawer": "^2.3.0",
+    "react-native-fbsdk": "^0.3.0",
+    "react-native-fcm": "^2.5.1",
+    "react-native-google-signin": "^0.8.1",
+    "react-native-image-picker": "^0.22.9",
+    "react-native-linear-gradient": "^1.5.13",
+    "react-native-maps": "^0.12.2",
+    "react-native-photo-view": "^1.2.0",
+    "react-native-picker": "^4.0.14",
+    "react-native-scrollable-tab-view": "^0.7.0",
+    "react-native-share": "^1.0.14",
+    "react-native-socket.io-client": "^1.4.8",
+    "react-native-swipeout": "^2.0.12",
+    "react-native-system-notification": "^0.2.1",
+    "react-native-vector-icons": "^2.1.0"
+  },
+  "devDependencies": {
+    "babel-jest": "18.0.0",
+    "babel-preset-react-native": "1.9.1",
+    "jest": "18.0.0",
+    "react-test-renderer": "15.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

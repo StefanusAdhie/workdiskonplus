@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "544758072095",
+    "firebase_url": "https://diskonplus-144908.firebaseio.com",
+    "project_id": "diskonplus-144908",
+    "storage_bucket": "diskonplus-144908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544758072095:android:638897086dd92b11",
+        "android_client_info": {
+          "package_name": "com.diskonplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544758072095-t18tl1p639vm3p981mphvsbvqmo2kq5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diskonplus",
+            "certificate_hash": "25496616D8B8DC74888532E343C53B421B5C4DAA"
+          }
+        },
+        {
+          "client_id": "544758072095-1eiv9s96abf114jvv3pf3sfk44pvpmcg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "544758072095-17mi5b1dv0grur6tu2l0dl6tnsr0rrod.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9vCPeTvdCsnOh8HI7jSvpEEOdgGk4ag"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544758072095-1eiv9s96abf114jvv3pf3sfk44pvpmcg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
